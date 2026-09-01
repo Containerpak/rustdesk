@@ -4,7 +4,7 @@
   "name": "RustDesk",
   "description": "Remote desktop software for secure connections.",
   "version": "1.4.9",
-  "image": "ghcr.io/containerpak/rustdesk@sha256:752739e141b15ca646a14e37af69dd9a90fc28db4e120ce4dbb927396417fd53",
+  "image": "ghcr.io/containerpak/rustdesk@sha256:ae17da4cfda82fec268fcc5011cd7175dbc5d95234229aaa9c98058c9a7eb4d9",
   "binaries": [
     "/usr/bin/rustdesk"
   ],
